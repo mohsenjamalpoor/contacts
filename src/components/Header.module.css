@@ -1,0 +1,13 @@
+.container {
+    margin: 50px 0;
+    text-align: center;
+    transition: all 0.2 ease-in-out;
+}
+.container h1 {
+    color: #304ffe;
+
+}
+.container h1:hover {
+    color: #0e27b6;
+
+}
